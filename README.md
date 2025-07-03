@@ -1,1 +1,2 @@
 # movies_insights_dashboard
+Created a insightful dashboard using Power BI. Provided datasets consists of raw .csv files of movies, users, and rating. I cleaned the raw files in Power Query as a part of data preprocessing and then I created a data model through which I calculated several measures required before the visualization works start. Some of the DAX measures which I created are as follows: total movies, average rating, average rating by age group, movies by decade, male users, female users, user count by age group, etc. 
